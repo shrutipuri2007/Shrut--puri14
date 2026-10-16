@@ -2,7 +2,7 @@ College Examination Schedule Management System Using Linked List in C++
 
 Introduction
 
-The College Examination Schedule Management System is a C++ project that uses a Singly Linked List to store and display examination details, including subject names and examination dates.
+The College Examination Schedule Management System is a C++ project that uses a Singly Linked List to store and display examination details, including subject names and examination dates , exam id , Hall number.
 
 Problem Statement
 
